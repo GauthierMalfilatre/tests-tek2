@@ -28,7 +28,6 @@ do
     # Compilation
     spath=$(cat $testDir/$unitname/path)
     toml="$spath/Cargo.toml"
-    echo "$toml"
     if [ -f "$toml" ]
     then
         mkdir --parents $buildDir/$unitname/
