@@ -1,0 +1,7 @@
+x = 2.71, y = 3.14
+min(x, y) = 2.71
+max(x, y) = 3.14
+clamp(3.0, x, y) = 3
+min(a, b) = -50
+max(a, b) = -10
+clamp(-30, a, b) = -30

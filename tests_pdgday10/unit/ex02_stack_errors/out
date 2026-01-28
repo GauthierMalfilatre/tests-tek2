@@ -1,0 +1,36 @@
+stack.top() = Stack::Error::what(): Empty stack
+stack.pop()
+Stack::Error::what(): Empty stack
+stack.push(5.6)
+stack.top() = 5.6
+stack.add()
+Stack::Error::what(): Not enough operands
+stack.top() = 5.6
+stack.sub()
+Stack::Error::what(): Not enough operands
+stack.top() = 5.6
+stack.mul()
+Stack::Error::what(): Not enough operands
+stack.top() = 5.6
+stack.div()
+Stack::Error::what(): Not enough operands
+stack.top() = 5.6
+stack.push(1.9)
+stack.top() = 1.9
+stack.push(9)
+stack.top() = 9
+stack.push(2.2)
+stack.top() = 2.2
+stack.push(6)
+stack.top() = 6
+stack.add()
+stack.top() = 8.2
+stack.sub()
+stack.top() = -0.8
+stack.mul()
+stack.top() = -1.52
+stack.div()
+stack.top() = -0.271429
+stack.pop()
+stack.pop()
+Stack::Error::what(): Empty stack

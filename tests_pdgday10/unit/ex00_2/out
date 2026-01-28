@@ -1,0 +1,8 @@
+a = -89, b = 78
+min(a, b) = -89
+max(a, b) = 78
+clamp(-5, a, b) = -5
+c = abc, d = ghi
+min(c, d) = abc
+max(c, d) = ghi
+clamp("def", c, d) = def

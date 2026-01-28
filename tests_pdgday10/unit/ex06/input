@@ -1,0 +1,6 @@
+push 4.56
+push abc
+push 42
+div
+display
+mul

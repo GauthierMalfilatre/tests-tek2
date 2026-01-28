@@ -1,0 +1,8 @@
+Resource(100) created
+Value: 100
+Value: 100
+Value: 200
+Inner scope end
+After scope
+Resource(200) destroyed
+After reset

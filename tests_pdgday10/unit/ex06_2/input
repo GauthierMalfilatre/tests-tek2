@@ -1,0 +1,22 @@
+push 2
+push -50.5
+div
+display
+push -4
+mul
+display
+push -1
+add
+display
+push -78
+sub
+display
+push 10
+div
+display
+push 0
+mul
+display
+push 42
+add
+display
