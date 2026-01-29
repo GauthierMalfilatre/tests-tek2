@@ -1,5 +1,10 @@
 mod survivability;
 
+use survivability::ShipAssessment;
+use survivability::study_ships;
+use survivability::compute_survivable_days;
+use survivability::StudyResult;
+
 fn main() {
     let nb_crew : u32 = 3;
     let needs = ShipAssessment {

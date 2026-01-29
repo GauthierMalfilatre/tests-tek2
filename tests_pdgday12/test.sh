@@ -63,7 +63,7 @@ do
     echo "=== RUN TEST ==="
     if [ -f "$testDir/$unitname/args" ]
     then
-        ./"$buildDir/$unitname/target/debug/$unitname" $(cat "$testDir/$unitname/args") > $resultDir/$unitname.out 2> $resultDir/$unitname.err
+        xargs ./"$buildDir/$unitname/target/debug/$unitname" < "$testDir/$unitname/args" > $resultDir/$unitname.out 2> $resultDir/$unitname.err
     else
         ./"$buildDir/$unitname/target/debug/$unitname" > $resultDir/$unitname.out 2> $resultDir/$unitname.err
     fi
