@@ -1,0 +1,9 @@
+Is "0" a number ? true
+Is "000.0000" a number ? true
+Is "martin" a number ? false
+Is " -78..89 " a number ? false
+Is "6-7" a number ? false
+Is "-0" a number ? true
+Is ".8.6" a number ? false
+Is " 8671" a number ? true
+Is "-67.86" a number ? true

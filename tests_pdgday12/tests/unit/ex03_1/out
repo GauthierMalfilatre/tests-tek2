@@ -1,0 +1,4 @@
+--- Transmission 1 ---
+Ok("Hello World")
+--- Transmission 2 (Sanity Check Fail) ---
+Err("Artificial Noise")

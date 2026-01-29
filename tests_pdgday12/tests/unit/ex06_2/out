@@ -1,0 +1,5 @@
+--- Flight Schedule ---
+TR-55 to Venus at 1200 is OnTime
+SA-202 to Mars at 1430 is OnTime
+XF-99 to Jupiter at 1800 is Delayed(60)
+ER-01 to Earth at 2359 is Cancelled("Engine Failure")
