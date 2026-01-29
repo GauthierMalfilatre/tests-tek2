@@ -1,0 +1,9 @@
+Is "42.42" a number ? true
+Is "42.24.42" a number ? false
+Is "yeet" a number ? false
+Is " 123.456 " a number ? true
+Is "123 .456" a number ? false
+Is "-0.4" a number ? true
+Is "-.8" a number ? false
+Is "8.-6" a number ? false
+Is "-8-.6" a number ? false
