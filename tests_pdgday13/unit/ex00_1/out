@@ -1,0 +1,28 @@
+Rocket Booster created with a height of 32.3 meters.
+Fuel Tank created with a max quantity of 220 tons.
+Science Payload created with a max quantity of 1142 kilos.
+Cabin of 4 person created.
+
+- This Rocket Booster is 32.3 meters tall and 3 meters wide. It was last checked on day 0 of its life.
+- This Fuel Tank is 30 meters tall and can contain up to 220 tons of propergol, currently 0 tons inside. It was last checked on day 0 of its life.
+- This Science Payload can carry 1142.00 kilos of science material. Currently it contains 0.00 kilos which means it has a science percentage of 0.00%.
+- This cabin has 4 seats arranged in a circle 2.50 meters large. It was last checked on day 0 of its life.
+Is the booster safe on day 4: false
+Check the booster on day 6: true
+Is the booster safe on day 18: true
+Is the booster safe on day 19: false
+Is fuel tank safe: true, is fuel tank full: false.
+Check tank on day 1: false
+Is tank safe on day 8: false
+The Union discovered that the hottest planet in our solar system is Venus (about 450°C).
+Science quantity: 24.52
+The Union discovered that one day on Venus is longer than a year on Earth.
+Science quantity: 112.08
+Is the cabin safe on day 5: false
+Check the cabin on day 6: true
+Is the cabin safe on day 22: true
+
+- This Rocket Booster is 32.3 meters tall and 3 meters wide. It was last checked on day 6 of its life.
+- This Fuel Tank is 30 meters tall and can contain up to 220 tons of propergol, currently 10 tons inside. It was last checked on day 9 of its life.
+- This Science Payload can carry 1142.00 kilos of science material. Currently it contains 640.00 kilos which means it has a science percentage of 112.08%.
+- This cabin has 4 seats arranged in a circle 2.50 meters large. It was last checked on day 6 of its life.

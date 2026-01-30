@@ -1,0 +1,13 @@
+--- Report ---
+[FAILED] Alpha
+  > Assigned Rover: Spirit (Fuel: 0%)
+  > Map Coverage: 0 sectors
+
+--- Deduplication ---
+Mission 'Alpha' is a duplicate of Mission 'Alpha'.
+
+--- Priority Sorting ---
+Failed
+InProgress
+Planned
+Completed
