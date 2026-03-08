@@ -1,0 +1,57 @@
+> tick: 0
+input(s):
+  cin: U
+  in_1: U
+  in_2: U
+output(s):
+  cout: U
+  sum: U
+> > tick: 1
+input(s):
+  cin: U
+  in_1: U
+  in_2: U
+output(s):
+  cout: U
+  sum: U
+> > > > > tick: 2
+input(s):
+  cin: 0
+  in_1: 0
+  in_2: 0
+output(s):
+  cout: 0
+  sum: 0
+> > > tick: 3
+input(s):
+  cin: 1
+  in_1: 0
+  in_2: 0
+output(s):
+  cout: 0
+  sum: 1
+> > > tick: 4
+input(s):
+  cin: 1
+  in_1: 1
+  in_2: 0
+output(s):
+  cout: 1
+  sum: 0
+> > > tick: 5
+input(s):
+  cin: 1
+  in_1: 1
+  in_2: 1
+output(s):
+  cout: 1
+  sum: 1
+> > > tick: 6
+input(s):
+  cin: 1
+  in_1: U
+  in_2: 1
+output(s):
+  cout: U
+  sum: U
+> 

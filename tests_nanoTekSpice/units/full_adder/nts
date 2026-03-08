@@ -1,0 +1,22 @@
+# Full Adder gate
+#
+# in_1  -1-+------------+-5-  sum
+#          |            |
+# in_2  -2-| full adder |
+#          |            |
+# cin   -3-+------------+-4-  cout
+
+.chipsets:
+input in_1
+input in_2
+input cin
+output cout
+output sum
+full-adder gate
+
+.links:
+in_1:1 gate:1
+in_2:1 gate:2
+cin:1  gate:3
+cout:1 gate:4
+sum:1  gate:5
